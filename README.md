@@ -17,3 +17,9 @@ Este proyecto utiliza un entorno virtual para mantener las dependencias aisladas
 
 ---
 *Configurado con la ayuda de Gemini para el setup de Bit.*
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de Jose Luis](https://github-readme-stats.vercel.app/api?username=JoseLRC224&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLRC224&layout=compact&theme=tokyonight)
